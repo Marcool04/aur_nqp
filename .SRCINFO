@@ -4,6 +4,7 @@ pkgbase = nqp
 	pkgrel = 1
 	url = https://github.com/Raku/nqp
 	arch = x86_64
+	arch = aarch64
 	license = PerlArtistic
 	makedepends = perl>=5.8
 	depends = moarvm>=2023.10

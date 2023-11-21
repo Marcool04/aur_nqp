@@ -4,7 +4,7 @@ pkgname=nqp
 pkgver=2023.10
 pkgrel=1
 pkgdesc="Lightweight Raku-like environment for virtual machines (MoarVM backend)"
-arch=('x86_64')
+arch=('x86_64' 'aarch64')
 url='https://github.com/Raku/nqp'
 license=(PerlArtistic)
 depends=("moarvm>=$pkgver")
